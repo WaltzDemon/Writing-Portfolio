@@ -1,4 +1,0 @@
-Inventory System Designed for Small to Mid Sized Non-Profit Donation Upsell Store
-
-Step 1: Research Cost-Effective Software for Non-Profit Upsell Store Needs
-The Client required Inventory Tracking for non-expiring donated product in exchange for tax write-off documentation to be logged into a storage area or placed into a retail "Sales Floor" area for direct purchase. The most cost-effective solution was a subscription-based Online Inventory Management Software to track the donation and selling of non-expiring product. The Online Inventory Management Software, now referred to as "Clearly Inventory" had to be set up for Non-Profit use. The Client needed customized fields for Item Number, Item Description, Item Category, Item Quantity, Bin Code, 
